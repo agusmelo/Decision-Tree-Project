@@ -17,3 +17,5 @@ statsmodels
 # Machine learning ----------------------------
 sklearn
 seaborn
+statsmodels
+plotly
